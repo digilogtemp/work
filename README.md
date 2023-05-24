@@ -21,10 +21,11 @@ es=EarlyStopping(monitor='val_loss',mode='min',verbose=1,patience=10)
 추가한 코드에 대하여 주석으로 설명을 달아주어 이해하기 쉬웠습니다.
 
 [x] 코드가 에러를 유발할 가능성이 있나요?  
-* 찾지 못했습니다. 
+* 찾지 못했습니다.   
+   
 [o] 코드 작성자가 코드를 제대로 이해하고 작성했나요? (직접 인터뷰해보기)  
 
-* [Early stopping](https://keras.io/api/callbacks/early_stopping/)에 관해 질문했는데 자세히 답변해 주셨습니다.
+* [Early stopping](https://keras.io/api/callbacks/early_stopping/)에 관해 질문했는데 자세히 답변해 주셨습니다.  
   
 [x] 코드가 간결한가요?  
 ```python
